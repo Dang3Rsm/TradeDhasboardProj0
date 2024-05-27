@@ -1,0 +1,5 @@
+Flask==2.0.2
+pandas==1.3.4
+websocket-client==1.2.1
+dhanhq==0.1.0
+python-dotenv==0.19.2
