@@ -66,6 +66,6 @@ This project is a trading dashboard using Dhan API. It includes functionalities 
 ├── dhan.py
 ├── live.py
 ├── requirements.txt
-```
 ├── .env
 └── README.md
+```
